@@ -19,6 +19,8 @@
 } */
 .img{
     border-radius: 20px;
+    height: 290px;
+    width: 420px;
 }
 
 .slick-slider{
