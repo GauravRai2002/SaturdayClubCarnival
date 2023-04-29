@@ -1,0 +1,27 @@
+.result-match-data{
+    width: 80vw;
+    margin: 1rem 0px;
+}
+
+.result-match-data td{
+    text-align: left;
+    /* width: 33%; */
+    padding: 2rem 2rem;
+    text-align: center  ;
+}
+
+.result-match-heading{
+    text-align: left;
+}
+
+.result-match-heading th{
+    background-color: #d9d9d9;
+    padding: 1rem 2rem;
+    text-align: center;
+    /* border-radius: 20px; */
+}
+
+.table-results{
+    width: 80%;
+    margin: 3rem auto;
+}

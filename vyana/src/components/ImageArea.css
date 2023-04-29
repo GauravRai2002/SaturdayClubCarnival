@@ -1,0 +1,26 @@
+.image-area-main{
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
+    background:radial-gradient(#070537,#58053F);
+    padding: 4rem 2rem;
+}
+
+.image-area-main img{
+    margin: 1rem;
+}
+
+/* .active-img{
+    scale: 1.25;
+} */
+
+/* .not-active-img{
+    scale: 0.9;
+} */
+.img{
+    border-radius: 20px;
+}
+
+.slick-slider{
+    overflow-y: hidden;
+}

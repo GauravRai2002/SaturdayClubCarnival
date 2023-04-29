@@ -1,0 +1,36 @@
+.footer-navigation{
+    color: white;
+    background-color: #070537;
+    padding: 2rem;
+    /* margin: 0.5rem 0px; */
+    margin-bottom: 0px;
+}
+
+.footer-navigation ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: right;
+    margin: 0px 1rem;
+    font-size: 1rem;
+    padding: 0.5rem 0px;
+}
+
+.footer-nav-list{
+    margin: 0px 0.5rem;
+}
+
+.footer-red-bg{
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    letter-spacing: 1px;
+}
+
+.foot{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
