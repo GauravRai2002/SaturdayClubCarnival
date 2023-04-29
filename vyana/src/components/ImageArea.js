@@ -7,26 +7,37 @@ import img2 from '../assests/img2.png'
 import img3 from '../assests/img3.png'
 import Slider from "react-slick";
 function ImageArea() {
-
-
-  {/* <div className='image-area-main'>
-            <img src={img1} className='img1 not-active-img'/>
-            <img src={img2} className='img2 active-img'/>
-            <img src={img3} className='img3 not-active-img'/>
-        </div> */}
-  var settings = {
-    dots: true,
-    infinite: true,
-    speed: 1000,
-    infinite: true,
-    lazyLoad: true,
-    slidesToShow: 2.9,
-    centerMode: true,
-    centerPadding: 10,
-    // autoplay: true
-    autoplay: true,
-    autoplaySpeed: 2500
-    
+  if(window.innerWidth >= '1000px'){
+      var settings = {
+        dots: true,
+        infinite: true,
+        speed: 1000,
+        infinite: true,
+        lazyLoad: true,
+        slidesToShow: 2.9,
+        centerMode: true,
+        centerPadding: 10,
+        // autoplay: true
+        autoplay: true,
+        autoplaySpeed: 2500
+        
+      }
+  }
+  else{
+    var settings = {
+      // dots: true,
+      infinite: true,
+      speed: 1000,
+      infinite: true,
+      lazyLoad: true,
+      slidesToShow: 1,
+      centerMode: true,
+      centerPadding:0,
+      // autoplay: true
+      autoplay: true,
+      autoplaySpeed: 2500
+      
+    }
   }
 
   return (

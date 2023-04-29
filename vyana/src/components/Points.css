@@ -1,0 +1,13 @@
+@media only screen and (max-width:1000px){
+    .table-results{
+        width: 100vw;
+        overflow-x: scroll;
+    }
+    
+    .result-match-heading th{
+        padding: 1rem 0.1rem;
+    }
+    .result-match-data td{
+        padding: 1rem 0.1rem;
+    }
+}

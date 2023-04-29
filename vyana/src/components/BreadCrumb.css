@@ -75,3 +75,27 @@
 }
 
 
+@media only screen and (max-width:1000px) {
+    .breadcrumb-second-area{
+        flex-direction: column;
+    }
+
+    .breadcrumb-logo-area{
+        width: 90%;
+        margin: 2rem auto;
+    }
+
+    .breadcrumb-logo-area img{
+        width: 100%;
+    }
+    .breadcrumb-navigation ul{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .breadcrumb-nav-list{
+        width: 33%;
+        text-align: center;
+        margin: 1rem auto;
+    }
+}

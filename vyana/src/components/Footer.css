@@ -34,3 +34,14 @@
     align-items: flex-end;
     justify-content: center;
 }
+
+@media only screen and (max-width:1000px){
+    .footer-navigation ul{
+        flex-wrap: wrap;
+    }
+    .footer-nav-list{
+        margin: 1rem auto;
+        width: 33%;
+        text-align: center;
+    }
+}
