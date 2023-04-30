@@ -14,16 +14,16 @@ function BreadCrumb() {
                             <Link to='/' className='link'>HOME  </Link>
                         </li>
                         <li className='breadcrumb-nav-list'>
-                            <Link to='/about' className='link'>ABOUT US </Link>
+                            <Link to='/' className='link'>ABOUT US </Link>
                         </li>
                         <li className='breadcrumb-nav-list'>
-                            <Link to='/photos' className='link'> PHOTOS </Link>
+                            <Link to='/' className='link'> PHOTOS </Link>
                         </li>
                         <li className='breadcrumb-red-bg breadcrumb-nav-list'>
-                            <Link to='/contact' className='link'> CONTACT </Link>
+                            <Link to='/' className='link'> CONTACT </Link>
                         </li>
                         <li className='breadcrumb-red-bg breadcrumb-nav-list'>
-                            <Link to='/feedback' className='link'>FEEDBACK </Link>
+                            <Link to='/' className='link'>FEEDBACK </Link>
                         </li>
                     </ul>
                 </div>

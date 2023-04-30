@@ -1,61 +1,30 @@
 import React from 'react'
 import './Games.css'
+import GamesList from './GamesList'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import Badminton from './Badminton';
+import Poker from './Poker';
+import Snooker from './Snooker';
+import Tennis from './Tennis';
+import Squash from './Squash';
+import Swimming from './Swimming';
+import Darts from './Darts';
 
 function Games() {
     return (
         <>
-            <table className='table-games'>
-                <tr className='match-heading'>
-                    <th>SAT, APR 29 2023</th>
-                </tr>
-                <tr className='match-data'>
-                    <td>Team 1 Vs Team 2</td>
-                    <td>Pakistan vs New Zealand, 2nd ODI <br/>
-                        Rawalpindi Cricket Stadium, Rawalpindi</td>
-                    <td>4:00 PM
-                    </td>
-                </tr>
-                <tr className='match-heading'>
-                    <th>SAT, APR 29 2023</th>
-                </tr>
-                <tr className='match-data'>
-                    <td>Team 1 Vs Team 2</td>
-                    <td>Pakistan vs New Zealand, 2nd ODI <br/>
-                        Rawalpindi Cricket Stadium, Rawalpindi</td>
-                    <td>4:00 PM
-                    </td>
-                </tr>
-                <tr className='match-heading'>
-                    <th>SAT, APR 29 2023</th>
-                </tr>
-                <tr className='match-data'>
-                    <td>Team 1 Vs Team 2</td>
-                    <td>Pakistan vs New Zealand, 2nd ODI <br/>
-                        Rawalpindi Cricket Stadium, Rawalpindi</td>
-                    <td>4:00 PM
-                    </td>
-                </tr>
-                <tr className='match-heading'>
-                    <th>SAT, APR 29 2023</th>
-                </tr>
-                <tr className='match-data'>
-                    <td>Team 1 Vs Team 2</td>
-                    <td>Pakistan vs New Zealand, 2nd ODI <br/>
-                        Rawalpindi Cricket Stadium, Rawalpindi</td>
-                    <td>4:00 PM
-                    </td>
-                </tr>
-                <tr className='match-heading'>
-                    <th>SAT, APR 29 2023</th>
-                </tr>
-                <tr className='match-data'>
-                    <td>Team 1 Vs Team 2</td>
-                    <td>Pakistan vs New Zealand, 2nd ODI <br/>
-                        Rawalpindi Cricket Stadium, Rawalpindi</td>
-                    <td>4:00 PM
-                    </td>
-                </tr>
-            </table>
+            {/* <BrowserRouter> */}
+                <GamesList/>
+                <Routes>
+                    <Route path='badminton' element={ <Badminton/> }/>
+                    <Route path='poker' element={ <Poker/> }/>
+                    <Route path='snooker' element={ <Snooker/> }/>
+                    <Route path='tennis' element={ <Tennis/> }/>
+                    <Route path='squash' element={ <Squash/> }/>
+                    <Route path='swimming' element={ <Swimming/> }/>
+                    <Route path='darts' element={ <Darts/> }/>
+                </Routes>
+            {/* </BrowserRouter> */}
         </>
     )
 }

@@ -18,7 +18,7 @@ function Layout() {
         <BreadCrumb/>
             <Routes>
                 <Route path="/" element={ <Home/> } />
-                <Route path="/schedule" element={ <Schedule/> } />
+                <Route path="/schedule/*" element={ <Schedule/> } />
                 <Route path="/result" element={ <Results/> } />
                 <Route path="pointstable" element={ <Points/> } />
             </Routes>
