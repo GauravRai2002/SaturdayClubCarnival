@@ -33,7 +33,7 @@ function BreadCrumb() {
                             <img src={satclogo} alt='image' />
                         </div>
                         <div className='sat-c-area-nav'>
-                            <Link to='/schedule' className='link'>SCHEDULE</Link>
+                            <Link to='/schedule/badminton' className='link'>SCHEDULE</Link>
                         </div>
                         <div className='sat-c-area-nav'>
                             <Link to='/result' className='link'>RESULTS</Link>
