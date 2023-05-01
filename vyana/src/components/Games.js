@@ -17,7 +17,7 @@ function Games() {
                 <GamesList/>
                 <Routes>
                     <Route path='badminton' element={ <Badminton/> }/>
-                    <Route path='poker' element={ <Poker/> }/>
+                    <Route path='tabletennis' element={ <Poker/> }/>
                     <Route path='snooker' element={ <Snooker/> }/>
                     <Route path='tennis' element={ <Tennis/> }/>
                     <Route path='squash' element={ <Squash/> }/>

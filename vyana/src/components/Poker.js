@@ -5,12 +5,19 @@ function Poker() {
 
     var matches = [
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             group: 'Group - B',
-            team1: 'Finals',
-            team2: 'Finals',
-            time : '5:00 PM'
-        }
+            team1: 'Calcutta Club',
+            team2: 'Calcutta Swimming Club',
+            time : '6:40 PM'
+        },
+        {
+            day: 'MON, MAY 1 2023',
+            group: 'Group - B',
+            team1: 'Calcutta Club',
+            team2: 'Royal Calcutta Golf Club',
+            time : '7:30 PM'
+        },
     ]
 
   return (
