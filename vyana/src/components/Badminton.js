@@ -10,7 +10,7 @@ function Badminton() {
             team1: 'Royal Calcutta Golf Club ',
             team2: 'Calcutta Club ',
             time : '4:30 PM',
-            live : true
+            live : false
         },
         {
             day: 'MON, MAY 1 2023',
@@ -18,7 +18,7 @@ function Badminton() {
             team1: 'Calcutta Punjab Club ',
             team2: 'Calcutta Club',
             time : '5:00 PM',
-            live : false
+            live : true
         },
         {
             day: 'MON, MAY 1 2023',

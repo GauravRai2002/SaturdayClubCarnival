@@ -4,32 +4,36 @@ import './Darts.css'
 function Darts() {
     var matches = [
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             // group: 'T1',
-            team1: 'CC & FC',
-            team2: 'Hindustan Club',
-            time : '6:00 PM'
-        },
-        {
-            day: 'SUN, APR 30 2023',
-            // group: 'T2',
-            team1: 'Tollygunge Club',
+            team1: 'Bengal Rowing Club',
             team2: 'Calcutta Club',
-            time : '6:00 PM'
+            time : '6:00 PM',
+            live : false
         },
         {
-            day: 'SUN, APR 30 2023',
-            // group: 'T1',
-            team1: 'Tollygunge Club',
-            team2: 'CC & FC',
-            time : '8:00 PM'
-        },
-        {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             // group: 'T2',
-            team1: 'Hindustan Club',
-            team2: 'Calcutta Punjab Club',
-            time : '8:00 PM'
+            team1: 'Dalhousie Institute',
+            team2: 'Calcutta Swimming Club',
+            time : '6:00 PM',
+            live : false
+        },
+        {
+            day: 'MON, MAY 1 2023',
+            // group: 'T1',
+            team1: 'The Saturday Club',
+            team2: 'Clacutta Club',
+            time : '8:00 PM',
+            live : false
+        },
+        {
+            day: 'MON, MAY 1 2023',
+            // group: 'T2',
+            team1: 'Bengal Rowing Club',
+            team2: 'Calcutta Swimming Club',
+            time : '8:00 PM',
+            live : false
         }
     ]
   return (

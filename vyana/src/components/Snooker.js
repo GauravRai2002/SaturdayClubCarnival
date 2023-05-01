@@ -4,32 +4,32 @@ function Snooker() {
 
     var matches = [
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             group: 'T1',
-            team1: 'Bengal Rowing Club',
-            team2: 'CC & FC',
+            team1: 'The Saturday CLub',
+            team2: 'Hindustan Club',
             time : '5:00 PM'
         },
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
+            group: 'T2',
+            team1: 'Calcutta Swimming Club',
+            team2: 'Calcutta Punjab Club',
+            time : '5:00 PM'
+        },
+        {
+            day: 'MON, MAY 1 2023',
+            group: 'T1',
+            team1: 'Dalhousie Institute',
+            team2: 'CC & FC',
+            time : '7:00 PM'
+        },
+        {
+            day: 'MON, MAY 1 2023',
             group: 'T2',
             team1: 'Tollygunge Club',
-            team2: 'Calcutta Club',
-            time : '5:00 PM'
-        },
-        {
-            day: 'SUN, APR 30 2023',
-            group: 'T1',
-            team1: 'Calcutta Swimming Club',
-            team2: 'Royal Calcutta Golf Club',
-            time : '7:30 PM'
-        },
-        {
-            day: 'SUN, APR 30 2023',
-            group: 'T2',
-            team1: 'The Saturday Club',
-            team2: 'Calcutta Punjab Club',
-            time : '7:30 PM'
+            team2: 'Bengal Rowing Club',
+            time : '7:00 PM'
         },
     ]
 
