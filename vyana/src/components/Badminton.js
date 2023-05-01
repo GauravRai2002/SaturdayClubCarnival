@@ -5,12 +5,49 @@ function Badminton() {
 
     var matches = [
         {
+            day: 'SUN, APR 30 2023',
+            group: 'Group - B',
+            team1: 'Hindustan Club ',
+            team2: 'Calcutta Swimming Club ',
+            time : '4:30 PM',
+            live : false,
+            winner : ' CSC'
+        },
+        {
+            day: 'SUN, APR 30 2023',
+            group: 'Group - B',
+            team1: 'Bengal Rowing CLub ',
+            team2: 'Calcutta Club ',
+            time : '5:00 PM',
+            live : false,
+            winner : ' BRC'
+        },
+        {
+            day: 'SUN, APR 30 2023',
+            group: 'Group - B',
+            team1: 'CC & FC ',
+            team2: 'Hindustan Club ',
+            time : '5:00 PM',
+            live : false,
+            winner : ' CC & FC'
+        },
+        {
+            day: 'SUN, APR 30 2023',
+            group: 'Group - B',
+            team1: 'CC & FC ',
+            team2: 'Calcutta Swimming Club ',
+            time : '5:00 PM',
+            live : false,
+            winner : ' CC & FC'
+        },
+        {
             day: 'MON, MAY 1 2023',
             group: 'Group - B',
             team1: 'Royal Calcutta Golf Club ',
             team2: 'Calcutta Club ',
             time : '4:30 PM',
-            live : false
+            live : false,
+            winner : ' TBD'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -18,7 +55,8 @@ function Badminton() {
             team1: 'Calcutta Punjab Club ',
             team2: 'Calcutta Club',
             time : '5:00 PM',
-            live : true
+            live : true,
+            winner : ' TBD'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -26,7 +64,8 @@ function Badminton() {
             team1: 'Royal Calcutta Golf Club ',
             team2: 'Calcutta Punjab Club',
             time : '6:00 PM',
-            live : false
+            live : false,
+            winner : ' TBD'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -34,8 +73,45 @@ function Badminton() {
             team1: 'Calcutta Club',
             team2: 'Dalhousie Club ',
             time : '7:00 PM',
-            live : false
-        }
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Group - B',
+            team1: 'Bengal Rowing Club',
+            team2: 'Calcutta Punjab Club ',
+            time : '6:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Group - B',
+            team1: 'Royal Calcutta Golf Club',
+            team2: 'Dalhousie Institute ',
+            time : '7:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Group - B',
+            team1: 'Dalhousie Institute ',
+            team2: 'Calcutta Punjab Club ',
+            time : '8:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Group - B',
+            team1: 'Bengal Rowing Club ',
+            team2: 'Royal Calcutta Golf Club ',
+            time : '9:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
     ]
 
 
@@ -52,6 +128,7 @@ function Badminton() {
                         <td><strong>{match.team1}</strong> Vs <strong>{match.team2}</strong></td>
                         <td>{match.group}</td>
                         <td>{match.time}</td>
+                        <td> Winner :{match.winner}</td>
                     </tr>
                 </>
             ))}

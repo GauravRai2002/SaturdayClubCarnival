@@ -9,29 +9,65 @@ function Squash() {
             group: 'Court - 1',
             team1: 'Calcutta Punjab CLub ',
             team2: 'Tollygunge Club ',
-            time : '5:00 PM'
+            time : '5:00 PM',
+            winner : ''
         },
         {
             day: 'MON, MAY 1 2023',
             group: 'Court - 2',
             team1: 'Bengal Rowing Club ',
             team2: 'CC & FC',
-            time : '5:00 PM'
+            time : '5:00 PM',
+            winner : ''
         },
         {
             day: 'MON, MAY 1 2023',
             group: 'Court - 1',
             team1: 'Saturday Club ',
             team2: 'Calcutta Swimming Club',
-            time : '6:30 PM'
+            time : '6:30 PM',
+            winner : ''
         },
         {
             day: 'MON, MAY 1 2023',
             group: 'Court - 2',
             team1: 'Hindustan Club ',
             team2: 'Dalhousie Institute ',
-            time : '6:30 PM'
-        }
+            time : '6:30 PM',
+            winner : ''
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Court - 1',
+            team1: 'Calcutta Pubjab Club ',
+            team2: 'Calcuttla Swimming Club ',
+            time : '5:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Court - 2',
+            team1: 'Hindustan Club ',
+            team2: 'CC & FC ',
+            time : '5:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Court - 1',
+            team1: 'The Saturday Club ',
+            team2: 'Tollygunge Club ',
+            time : '6:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Court - 2',
+            team1: 'Bengal Rowing Club ',
+            team2: 'Dalhousie Institute ',
+            time : '5:00 PM',
+            winner : ' TBD'
+        },
     ]
   return (
     <>
@@ -45,6 +81,7 @@ function Squash() {
                         <td><strong>{match.team1}</strong> Vs <strong>{match.team2}</strong></td>
                         <td>{match.group}</td>
                         <td>{match.time}</td>
+                        <td> Winner :{match.winner}</td>
                     </tr>
                 </>
             ))}

@@ -8,15 +8,25 @@ function Tennis() {
             // group: 'T1',
             team1: 'Tollygunge Club',
             team2: 'Calcutta Swimming Club',
-            time : '5:00 PM'
+            time : '5:00 PM',
+            winner : ' TOLLY'
         },
         {
             day: 'MON, MAY 1 2023',
             // group: 'T2',
             team1: 'The Saturday Club',
             team2: 'CC & FC',
-            time : '6:30 PM'
-        }
+            time : '6:30 PM',
+            winner : ' --'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            // group: 'T2',
+            team1: 'Tollygunge Club',
+            team2: 'CC & FC',
+            time : '6:00 PM',
+            winner : ' TBD'
+        },
     ]
   return (
     <>
@@ -30,6 +40,7 @@ function Tennis() {
                         <td><strong>{match.team1}</strong> Vs <strong>{match.team2}</strong></td>
                         {/* <td>{match.group}</td> */}
                         <td>{match.time}</td>
+                        <td> Winner :{match.winner}</td>
                     </tr>
                 </>
             ))}
