@@ -4,17 +4,17 @@ import './Tennis.css'
 function Tennis() {
     var matches = [
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             // group: 'T1',
-            team1: 'Group A-1',
-            team2: 'Group B-2',
+            team1: 'Tollygunge Club',
+            team2: 'Calcutta Swimming Club',
             time : '5:00 PM'
         },
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             // group: 'T2',
-            team1: 'Group B-1',
-            team2: 'Group A-2',
+            team1: 'The Saturday Club',
+            team2: 'CC & FC',
             time : '6:30 PM'
         }
     ]
