@@ -9,28 +9,32 @@ function Badminton() {
             group: 'Group - B',
             team1: 'Royal Calcutta Golf Club ',
             team2: 'Calcutta Club ',
-            time : '4:30 PM'
+            time : '4:30 PM',
+            live : true
         },
         {
             day: 'MON, MAY 1 2023',
             group: 'Group - B',
             team1: 'Calcutta Punjab Club ',
             team2: 'Calcutta Club',
-            time : '5:00 PM'
+            time : '5:00 PM',
+            live : false
         },
         {
             day: 'MON, MAY 1 2023',
             group: 'Group - B',
             team1: 'Royal Calcutta Golf Club ',
             team2: 'Calcutta Punjab Club',
-            time : '6:00 PM'
+            time : '6:00 PM',
+            live : false
         },
         {
             day: 'MON, MAY 1 2023',
             group: 'Group - B',
             team1: 'Calcutta Club',
             team2: 'Dalhousie Club ',
-            time : '7:00 PM'
+            time : '7:00 PM',
+            live : false
         }
     ]
 
@@ -41,7 +45,8 @@ function Badminton() {
             {matches.map((match) => (
                 <>
                     <tr className='match-heading'>
-                        <th>{match.day}</th>
+                        <th>{match.day} <span className={match.live?'live':'not-live'}></span> </th>
+                        
                     </tr>
                     <tr className='match-data'>
                         <td><strong>{match.team1}</strong> Vs <strong>{match.team2}</strong></td>
