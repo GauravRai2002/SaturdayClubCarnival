@@ -5,31 +5,31 @@ function Squash() {
 
     var matches = [
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             group: 'Court - 1',
-            team1: 'Tollygunge Club ',
-            team2: 'Calcutta Swimming Club',
+            team1: 'Calcutta Punjab CLub ',
+            team2: 'Tollygunge Club ',
             time : '5:00 PM'
         },
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             group: 'Court - 2',
-            team1: 'Dalhousie Institute ',
+            team1: 'Bengal Rowing Club ',
             team2: 'CC & FC',
             time : '5:00 PM'
         },
         {
-            day: 'SUN, APR 30 2023',
-            group: 'Group - B',
+            day: 'MON, MAY 1 2023',
+            group: 'Court - 1',
             team1: 'Saturday Club ',
-            team2: 'Calcutta Punjab Club',
+            team2: 'Calcutta Swimming Club',
             time : '6:30 PM'
         },
         {
-            day: 'SUN, APR 30 2023',
-            group: 'Group - A',
-            team1: 'Bengal Rowing Club',
-            team2: 'Hindustan Club',
+            day: 'MON, MAY 1 2023',
+            group: 'Court - 2',
+            team1: 'Hindustan Club ',
+            team2: 'Dalhousie Institute ',
             time : '6:30 PM'
         }
     ]

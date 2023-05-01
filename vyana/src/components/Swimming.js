@@ -4,31 +4,24 @@ import './Swimming.css'
 function Swimming() {
     var matches = [
         {
-            day: 'SUN, APR 30 2023',
+            day: 'MON, MAY 1 2023',
             // group: 'Court - 1',
-            team1: 'Royal Calcutta Golf Club ',
-            team2: 'Dalhousie Institute',
-            time : '5:30 PM'
-        },
-        {
-            day: 'SUN, APR 30 2023',
-            // group: 'Court - 2',
-            team1: 'Tollygunge Club',
-            team2: 'CC & FC',
+            team1: 'Dalhousie Institute ',
+            team2: 'Calcutta Punjab CLub ',
             time : '6:30 PM'
         },
         {
-            day: 'SUN, APR 30 2023',
-            // group: 'Group - B',
-            team1: 'Saturday Club ',
-            team2: 'Hindustan Club',
-            time : '8:00 PM'
+            day: 'MON, MAY 1 2023',
+            // group: 'Court - 2',
+            team1: 'Bengal Rowing Club ',
+            team2: 'Hindustan Club ',
+            time : '6:30 PM'
         },
         {
-            day: 'SUN, APR 30 2023',
-            // group: 'Group - A',
-            team1: 'Calcutta Swimming Club',
-            team2: 'Calcutta Club',
+            day: 'MON, MAY 1 2023',
+            // group: 'Group - B',
+            team1: 'The Saturday Club ',
+            team2: 'Tollygunge Club',
             time : '8:30 PM'
         }
     ]
