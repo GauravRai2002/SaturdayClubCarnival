@@ -4,7 +4,7 @@ import './Darts.css'
 function Darts() {
     var matches = [
         {
-            day: 'SUN, APR 1 2023',
+            day: 'SUN, APR 30 2023',
             // group: 'T1',
             team1: 'CC & FC',
             team2: 'Hindustan Club',
@@ -13,7 +13,7 @@ function Darts() {
             winner : ' CC & FC'
         },
         {
-            day: 'SUN, APR 1 2023',
+            day: 'SUN, APR 30 2023',
             // group: 'T1',
             team1: 'Tollygunge Club',
             team2: 'Calcutta Punjab Club',
@@ -22,7 +22,7 @@ function Darts() {
             winner : ' CPC'
         },
         {
-            day: 'SUN, APR 1 2023',
+            day: 'SUN, APR 30 2023',
             // group: 'T1',
             team1: 'Tollygunge Club',
             team2: 'CC & FC',
@@ -31,7 +31,7 @@ function Darts() {
             winner : ' TOLLY'
         },
         {
-            day: 'SUN, APR 1 2023',
+            day: 'SUN, APR 30 2023',
             // group: 'T1',
             team1: 'Hindustan Club ',
             team2: 'Calcutta Punjab Club',
@@ -46,7 +46,7 @@ function Darts() {
             team2: 'Calcutta Club',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD '
+            winner : ' BRC '
         },
         {
             day: 'MON, MAY 1 2023',
@@ -55,7 +55,7 @@ function Darts() {
             team2: 'Calcutta Swimming Club',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -64,7 +64,7 @@ function Darts() {
             team2: 'Clacutta Club',
             time : '8:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' SATC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -73,7 +73,7 @@ function Darts() {
             team2: 'Calcutta Swimming Club',
             time : '8:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' BRC'
         },
         {
             day: 'TUE, MAY 2 2023',

@@ -42,7 +42,7 @@ function Squash() {
             team1: 'Calcutta Pubjab Club ',
             team2: 'Calcuttla Swimming Club ',
             time : '5:00 PM',
-            winner : ' TBD'
+            winner : ' WALKOVER'
         },
         {
             day: 'TUE, MAY 2 2023',
@@ -66,7 +66,7 @@ function Squash() {
             team1: 'Bengal Rowing Club ',
             team2: 'Dalhousie Institute ',
             time : '5:00 PM',
-            winner : ' TBD'
+            winner : ' WALKOVER'
         },
     ]
   return (

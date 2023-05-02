@@ -65,7 +65,7 @@ function Swimming() {
             team1: 'The Saturday Club ',
             team2: 'CC & FC',
             time : '6:30 PM',
-            winner : ' TBD'
+            winner : ' SATC'
         },
         {
             day: 'TUE, MAY 2 2023',
@@ -73,7 +73,7 @@ function Swimming() {
             team1: 'Dalhousie Institute ',
             team2: 'Calcutta Club',
             time : '7:30 PM',
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'TUE, MAY 2 2023',
@@ -81,7 +81,7 @@ function Swimming() {
             team1: 'Royal Calcutta Golf Club ',
             team2: 'Calcutta Swimming Club',
             time : '8:30 PM',
-            winner : ' TBD'
+            winner : ' CSC'
         },
     ]
   return (

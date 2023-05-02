@@ -160,7 +160,7 @@ function Points() {
                     <td>5</td>
                     <td>5</td>
                     <td>5</td>
-                    <td>4</td>
+                    <td>5</td>
                 </tr>
                 <tr className='result-match-data'>
                     <td>Gym</td>
