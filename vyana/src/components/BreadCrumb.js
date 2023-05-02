@@ -35,9 +35,9 @@ function BreadCrumb() {
                         <div className='sat-c-area-nav'>
                             <Link to='/schedule/badminton' className='link'>SCHEDULE</Link>
                         </div>
-                        <div className='sat-c-area-nav'>
+                        {/* <div className='sat-c-area-nav'>
                             <Link to='/result' className='link'>RESULTS</Link>
-                        </div>
+                        </div> */}
                         <div className='sat-c-area-nav'>
                             <Link to='/pointstable' className='link'> POINTS TABLE</Link>
                         </div>
