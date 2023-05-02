@@ -10,7 +10,7 @@ function Squash() {
             team1: 'Calcutta Punjab CLub ',
             team2: 'Tollygunge Club ',
             time : '5:00 PM',
-            winner : ''
+            winner : ' CANCELLED'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -18,7 +18,7 @@ function Squash() {
             team1: 'Bengal Rowing Club ',
             team2: 'CC & FC',
             time : '5:00 PM',
-            winner : ''
+            winner : ' CANCELLED'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -26,7 +26,7 @@ function Squash() {
             team1: 'Saturday Club ',
             team2: 'Calcutta Swimming Club',
             time : '6:30 PM',
-            winner : ''
+            winner : ' SATC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -34,7 +34,7 @@ function Squash() {
             team1: 'Hindustan Club ',
             team2: 'Dalhousie Institute ',
             time : '6:30 PM',
-            winner : ''
+            winner : ' CANCELLED'
         },
         {
             day: 'TUE, MAY 2 2023',
@@ -58,7 +58,7 @@ function Squash() {
             team1: 'The Saturday Club ',
             team2: 'Tollygunge Club ',
             time : '6:30 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'TUE, MAY 2 2023',

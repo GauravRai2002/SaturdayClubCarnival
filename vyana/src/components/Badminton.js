@@ -47,7 +47,7 @@ function Badminton() {
             team2: 'Calcutta Club ',
             time : '4:30 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' CC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -56,7 +56,7 @@ function Badminton() {
             team2: 'Calcutta Club',
             time : '5:00 PM',
             live : true,
-            winner : ' TBD'
+            winner : ' CPC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -65,7 +65,7 @@ function Badminton() {
             team2: 'Calcutta Punjab Club',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' CPC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -74,7 +74,7 @@ function Badminton() {
             team2: 'Dalhousie Club ',
             time : '7:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'TUE, MAY 2 2023',

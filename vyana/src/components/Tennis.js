@@ -25,7 +25,7 @@ function Tennis() {
             team1: 'Tollygunge Club',
             team2: 'CC & FC',
             time : '6:00 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
     ]
   return (
