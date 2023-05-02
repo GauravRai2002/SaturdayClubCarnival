@@ -45,7 +45,7 @@ function BreadCrumb() {
                             <a href='https://www.youtube.com/@vyanasports/streams' className='link' target='_blank'> LIVE STREAMING</a>
                         </div>
                         <div className='sat-c-area-nav'>
-                            <Link to='/pointstable' className='link'> EVENT PHOTOS</Link>
+                            <Link to='/photos' className='link'> EVENT PHOTOS</Link>
                         </div>
                     </div>
                     <div className='breadcrumb-logo-area'>

@@ -9,6 +9,7 @@ import Home from './Home';
 import Schedule from './Schedule';
 import Results from './Results';
 import Points from './../components/Points';
+import Photos from './../components/Photos';
 
 function Layout() {
   return (
@@ -19,7 +20,7 @@ function Layout() {
             <Routes>
                 <Route path="/" element={ <Home/> } />
                 <Route path="/schedule/*" element={ <Schedule/> } />
-                <Route path="/result" element={ <Results/> } />
+                <Route path="/photos" element={ <Photos/> } />
                 <Route path="pointstable" element={ <Points/> } />
             </Routes>
 
