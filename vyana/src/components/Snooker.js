@@ -41,7 +41,7 @@ function Snooker() {
             team1: 'The Saturday CLub',
             team2: 'Hindustan Club',
             time : '5:00 PM',
-            winner : ' TBD'
+            winner : ' HC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -49,7 +49,7 @@ function Snooker() {
             team1: 'Calcutta Swimming Club',
             team2: 'Calcutta Punjab Club',
             time : '5:00 PM',
-            winner : ' TBD'
+            winner : ' CPC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -57,7 +57,7 @@ function Snooker() {
             team1: 'Dalhousie Institute',
             team2: 'CC & FC',
             time : '7:00 PM',
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -65,7 +65,7 @@ function Snooker() {
             team1: 'Tollygunge Club',
             team2: 'Bengal Rowing Club',
             time : '7:00 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'TUE, MAY 2 2023',

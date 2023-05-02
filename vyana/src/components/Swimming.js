@@ -41,7 +41,7 @@ function Swimming() {
             team1: 'Dalhousie Institute ',
             team2: 'Calcutta Punjab CLub ',
             time : '6:30 PM',
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -49,7 +49,7 @@ function Swimming() {
             team1: 'Bengal Rowing Club ',
             team2: 'Hindustan Club ',
             time : '6:30 PM',
-            winner : ' TBD'
+            winner : ' BRC'
         },
         {
             day: 'MON, MAY 1 2023',
@@ -57,7 +57,7 @@ function Swimming() {
             team1: 'The Saturday Club ',
             team2: 'Tollygunge Club',
             time : '8:30 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'TUE, MAY 2 2023',

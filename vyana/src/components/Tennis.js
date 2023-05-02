@@ -17,7 +17,7 @@ function Tennis() {
             team1: 'The Saturday Club',
             team2: 'CC & FC',
             time : '6:30 PM',
-            winner : ' --'
+            winner : ' CCFC'
         },
         {
             day: 'TUE, MAY 2 2023',
