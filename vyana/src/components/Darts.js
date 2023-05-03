@@ -111,6 +111,42 @@ function Darts() {
             live : false,
             winner : ' TBD'
         },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'T2',
+            team1: 'CC & FC ',
+            team2: 'Royal Calcuttla Golf Club',
+            time : '6:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'T2',
+            team1: 'Tollygunge Club ',
+            team2: 'Hindustan Club ',
+            time : '6:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'T2',
+            team1: 'Calcutta Punjab Club ',
+            team2: 'Royal Calcutta Golf Club ',
+            time : '8:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'T2',
+            team1: 'Bengal ROwing Club ',
+            team2: 'Dalhousie Institute ',
+            time : '8:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
     ]
   return (
     <>

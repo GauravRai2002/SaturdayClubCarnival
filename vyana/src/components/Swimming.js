@@ -83,6 +83,38 @@ function Swimming() {
             time : '8:30 PM',
             winner : ' CSC'
         },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'Group - B',
+            team1: 'CC & FC ',
+            team2: 'Hindustan Club ',
+            time : '5:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'Group - B',
+            team1: 'Bengal Rowing Club ',
+            team2: 'Tollygunge Club ',
+            time : '6:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'Group - B',
+            team1: 'Calcutta Punjab Club ',
+            team2: 'Calcutta Club ',
+            time : '7:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'Group - B',
+            team1: 'Calcutta Swimming Club ',
+            team2: 'Dalhousie Institute ',
+            time : '8:30 PM',
+            winner : ' TBD'
+        },
     ]
   return (
     <>

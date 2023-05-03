@@ -99,6 +99,22 @@ function Snooker() {
             time : '7:30 PM',
             winner : ' CPC'
         },
+        {
+            day: 'WED, MAY 3 2023',
+            group: 'T1',
+            team1: 'A1 ',
+            team2: 'B2 ',
+            time : '6:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            group: 'T2',
+            team1: 'B1 ',
+            team2: 'A2 ',
+            time : '6:00 PM',
+            winner : ' TBD'
+        },
     ]
 
   return (
