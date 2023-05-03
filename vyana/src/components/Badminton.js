@@ -55,7 +55,7 @@ function Badminton() {
             team1: 'Calcutta Punjab Club ',
             team2: 'Calcutta Club',
             time : '5:00 PM',
-            live : true,
+            live : false,
             winner : ' CPC'
         },
         {
@@ -111,6 +111,42 @@ function Badminton() {
             time : '9:00 PM',
             live : false,
             winner : ' BRC'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            group: 'Group - B',
+            team1: 'Tollygunge Club ',
+            team2: 'Hindustan Club ',
+            time : '6:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            group: 'Group - B',
+            team1: 'The Saturday Club ',
+            team2: 'Hindustan Club ',
+            time : '7:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            group: 'Group - B',
+            team1: 'The Saturday Club ',
+            team2: 'Tollygunge Club ',
+            time : '8:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'WED, MAY 3 2023',
+            group: 'Group - B',
+            team1: 'Tollygunge Club ',
+            team2: 'CC & FC ',
+            time : '9:00 PM',
+            live : false,
+            winner : ' TBD'
         },
     ]
 
