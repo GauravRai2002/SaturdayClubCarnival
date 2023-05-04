@@ -7,7 +7,7 @@ function GamesList() {
     // var gameToggle = document.getElementsByClassName('game')
     var i
     setTimeout(() => {
-        for (i = 0; i < 7; i++) {
+        for (i = 0; i < 9; i++) {
             document.getElementsByClassName('game')[i].addEventListener('click', event => {
                 document.getElementsByClassName('active')[0].classList.remove('active');
                 event.target.parentElement.classList.add('active')
@@ -26,6 +26,8 @@ function GamesList() {
                 <li className='game' > <Link to='squash' className='link'>Squash</Link></li>
                 <li className='game' > <Link to='swimming' className='link'>Swimming</Link></li>
                 <li className='game' > <Link to='darts' className='link'>Darts</Link></li>
+                <li className='game' > <Link to='cricketf' className='link'>Cricket-F</Link></li>
+                <li className='game' > <Link to='cricketm' className='link'>Cricket-M</Link></li>
             </ul>
         </>
     )

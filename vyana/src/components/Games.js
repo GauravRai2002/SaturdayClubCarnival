@@ -9,6 +9,8 @@ import Tennis from './Tennis';
 import Squash from './Squash';
 import Swimming from './Swimming';
 import Darts from './Darts';
+import CricketF from './CricketF';
+import CricketM from './CricketM';
 
 function Games() {
     return (
@@ -23,6 +25,8 @@ function Games() {
                     <Route path='squash' element={ <Squash/> }/>
                     <Route path='swimming' element={ <Swimming/> }/>
                     <Route path='darts' element={ <Darts/> }/>
+                    <Route path='cricketf' element={ <CricketF/> }/>
+                    <Route path='cricketm' element={ <CricketM/> }/>
                 </Routes>
             {/* </BrowserRouter> */}
         </>

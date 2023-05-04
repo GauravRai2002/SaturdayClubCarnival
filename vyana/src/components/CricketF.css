@@ -1,0 +1,50 @@
+.match-data{
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 1rem 0px;
+}
+
+.match-data td{
+    text-align: left;
+    width: 33%;
+    padding: 0px 2rem;
+}
+
+.match-heading{
+    text-align: left;
+}
+
+.match-heading th{
+    background-color: #d9d9d9;
+    padding: 0px 2rem;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    border-radius: 20px;
+}
+
+.table-games{
+    width: 80%;
+    margin: 3rem auto;
+}
+
+.live{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: green;
+    display: block;
+    margin-left: 1rem;
+}
+
+@media only screen and (max-width:1000px){
+    .match-data{
+        flex-direction: column;
+    }
+    .match-data td{
+        margin: 1rem auto;
+        width: 90%;
+    }
+}

@@ -82,7 +82,7 @@ function Darts() {
             team2: 'Calcutta Punjab Club',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' CCFC'
         },
         {
             day: 'TUE, MAY 2 2023',
@@ -91,7 +91,7 @@ function Darts() {
             team2: 'Tollygunge Club',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' RCGC'
         },
         {
             day: 'TUE, MAY 2 2023',
@@ -100,7 +100,7 @@ function Darts() {
             team2: 'Calcuttla Swimming Club',
             time : '8:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' SATC'
         },
         {
             day: 'TUE, MAY 2 2023',
@@ -109,7 +109,7 @@ function Darts() {
             team2: 'Calcuttla Club',
             time : '8:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -118,7 +118,7 @@ function Darts() {
             team2: 'Royal Calcuttla Golf Club',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' CCFC'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -127,7 +127,7 @@ function Darts() {
             team2: 'Hindustan Club ',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -136,16 +136,16 @@ function Darts() {
             team2: 'Royal Calcutta Golf Club ',
             time : '8:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' RCGC'
         },
         {
             day: 'WED, MAY 3 2023',
             // group: 'T2',
-            team1: 'Bengal ROwing Club ',
+            team1: 'Bengal Rowing Club ',
             team2: 'Dalhousie Institute ',
             time : '8:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' BRC'
         },
     ]
   return (
