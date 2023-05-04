@@ -4,118 +4,70 @@ import './CricketF.css'
 function CricketF() {
 
     var matches = [
-        // {
-        //     day: 'SUN, APR 30 2023',
-        //     // group: 'Court - 1',
-        //     team1: 'Royal Calcutta Golf Club ',
-        //     team2: 'Dalhousie Institute ',
-        //     time : '5:00 PM',
-        //     winner : ' DI'
-        // },
-        // {
-        //     day: 'SUN, APR 30 2023',
-        //     // group: 'Court - 1',
-        //     team1: 'Tollygunge Club ',
-        //     team2: 'CC & FC ',
-        //     time : '6:30 PM',
-        //     winner : ' TOLLY'
-        // },
-        // {
-        //     day: 'SUN, APR 30 2023',
-        //     // group: 'Court - 1',
-        //     team1: 'The Saturday Club ',
-        //     team2: 'Hindustan Club ',
-        //     time : '6:30 PM',
-        //     winner : ' HC'
-        // },
-        // {
-        //     day: 'SUN, APR 30 2023',
-        //     // group: 'Court - 1',
-        //     team1: 'Calcutta Swimmming Club ',
-        //     team2: 'Calcutta Club ',
-        //     time : '6:30 PM',
-        //     winner : ' CC'
-        // },
-        // {
-        //     day: 'MON, MAY 1 2023',
-        //     // group: 'Court - 1',
-        //     team1: 'Dalhousie Institute ',
-        //     team2: 'Calcutta Punjab CLub ',
-        //     time : '6:30 PM',
-        //     winner : ' DI'
-        // },
-        // {
-        //     day: 'MON, MAY 1 2023',
-        //     // group: 'Court - 2',
-        //     team1: 'Bengal Rowing Club ',
-        //     team2: 'Hindustan Club ',
-        //     time : '6:30 PM',
-        //     winner : ' BRC'
-        // },
-        // {
-        //     day: 'MON, MAY 1 2023',
-        //     // group: 'Group - B',
-        //     team1: 'The Saturday Club ',
-        //     team2: 'Tollygunge Club',
-        //     time : '8:30 PM',
-        //     winner : ' TOLLY'
-        // },
-        // {
-        //     day: 'TUE, MAY 2 2023',
-        //     // group: 'Group - B',
-        //     team1: 'The Saturday Club ',
-        //     team2: 'CC & FC',
-        //     time : '6:30 PM',
-        //     winner : ' SATC'
-        // },
-        // {
-        //     day: 'TUE, MAY 2 2023',
-        //     // group: 'Group - B',
-        //     team1: 'Dalhousie Institute ',
-        //     team2: 'Calcutta Club',
-        //     time : '7:30 PM',
-        //     winner : ' DI'
-        // },
-        // {
-        //     day: 'TUE, MAY 2 2023',
-        //     // group: 'Group - B',
-        //     team1: 'Royal Calcutta Golf Club ',
-        //     team2: 'Calcutta Swimming Club',
-        //     time : '8:30 PM',
-        //     winner : ' CSC'
-        // },
-        // {
-        //     day: 'WED, MAY 3 2023',
-        //     // group: 'Group - B',
-        //     team1: 'CC & FC ',
-        //     team2: 'Hindustan Club ',
-        //     time : '5:30 PM',
-        //     winner : ' TBD'
-        // },
-        // {
-        //     day: 'WED, MAY 3 2023',
-        //     // group: 'Group - B',
-        //     team1: 'Bengal Rowing Club ',
-        //     team2: 'Tollygunge Club ',
-        //     time : '6:30 PM',
-        //     winner : ' TBD'
-        // },
-        // {
-        //     day: 'WED, MAY 3 2023',
-        //     // group: 'Group - B',
-        //     team1: 'Calcutta Punjab Club ',
-        //     team2: 'Calcutta Club ',
-        //     time : '7:30 PM',
-        //     winner : ' TBD'
-        // },
-        // {
-        //     day: 'WED, MAY 3 2023',
-        //     // group: 'Group - B',
-        //     team1: 'Calcutta Swimming Club ',
-        //     team2: 'Dalhousie Institute ',
-        //     time : '8:30 PM',
-        //     winner : ' TBD'
-        // },
+        {
+            day: 'WED, MAY 3 2023',
+            // group: 'Court - 1',
+            team1: 'Hindustan Club ',
+            team2: 'The Saturday Club ',
+            time : '9:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Court - 1',
+            team1: 'CCFC ',
+            team2: 'Calcutta Punjab Club ',
+            time : '3:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Court - 1',
+            team1: 'Bengal Rowing Club ',
+            team2: 'Calcutta Club ',
+            time : '4:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Court - 1',
+            team1: 'Royal Calcutta Golf Club ',
+            team2: 'Dalhousie Institute ',
+            time : '5:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Court - 1',
+            team1: 'Tollygunge Club ',
+            team2: 'The Saturday Club ',
+            time : '6:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Court - 1',
+            team1: 'Calcutta Swimming Club ',
+            team2: 'CC & FC ',
+            time : '7:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Court - 1',
+            team1: 'Royal Calcutta Golf Club ',
+            team2: 'Hindustan Club ',
+            time : '8:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Court - 1',
+            team1: 'Calcutta Punjab Club ',
+            team2: 'Calcutta Club ',
+            time : '9+:00 PM',
+            winner : ' TBD'
+        },
     ]
 
   return (
