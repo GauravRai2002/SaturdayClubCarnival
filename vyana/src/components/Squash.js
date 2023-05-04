@@ -68,6 +68,22 @@ function Squash() {
             time : '5:00 PM',
             winner : ' WALKOVER'
         },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Semi-Final',
+            team1: 'Tollygunge Club ',
+            team2: 'Hindustan Club ',
+            time : '6:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'TUE, MAY 2 2023',
+            group: 'Semi-Final',
+            team1: 'The Saturday Club ',
+            team2: 'Bengal Rowing Club ',
+            time : '6:00 PM',
+            winner : ' TBD'
+        },
     ]
   return (
     <>

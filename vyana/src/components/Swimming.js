@@ -115,6 +115,30 @@ function Swimming() {
             time : '8:30 PM',
             winner : ' TBD'
         },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Group - B',
+            team1: 'CC & FC ',
+            team2: 'Bengal Rowing Club ',
+            time : '6:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Group - B',
+            team1: 'Hindustan Club ',
+            team2: 'Tollygunge Club ',
+            time : '7:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            // group: 'Group - B',
+            team1: 'Calcutta Punjab Club ',
+            team2: 'Royal Calcutta Golf Club ',
+            time : '8:30 PM',
+            winner : ' TBD'
+        },
     ]
   return (
     <>

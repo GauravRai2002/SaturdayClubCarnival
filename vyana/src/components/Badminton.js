@@ -148,6 +148,42 @@ function Badminton() {
             live : false,
             winner : ' TBD'
         },
+        {
+            day: 'THU, MAY 4 2023',
+            group: ' ',
+            team1: 'Bengal Rowing Club ',
+            team2: 'Dalhousie Institute ',
+            time : '6:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            group: ' ',
+            team1: 'The Saturday Club ',
+            team2: 'CC & FC ',
+            time : '7:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            group: ' ',
+            team1: 'The Saturday Club ',
+            team2: 'Calcutta Swimming Club ',
+            time : '8:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            group: ' ',
+            team1: 'Tollygunge Club ',
+            team2: 'Calcutta Swimming Club ',
+            time : '9:00 PM',
+            live : false,
+            winner : ' TBD'
+        },
     ]
 
 

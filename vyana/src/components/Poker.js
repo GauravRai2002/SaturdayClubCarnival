@@ -84,6 +84,46 @@ function Poker() {
             time : '8:20 PM',
             winner : ' CCFC'
         },
+        {
+            day: 'THU, MAY 4 2023',
+            group: 'Group - B',
+            team1: 'CC & FC ',
+            team2: 'Dalhousie Institute ',
+            time : '5:00 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            group: 'Group - B',
+            team1: 'Calcutta Swimming Club ',
+            team2: 'Royal Calcutta Golf Club ',
+            time : '5:50 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            group: 'Group - A',
+            team1: 'The Saturday Club ',
+            team2: 'Hindustan Club ',
+            time : '6:40 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            group: 'Group - A',
+            team1: 'Bengal Rowing Club ',
+            team2: 'The Saturday Club ',
+            time : '7:30 PM',
+            winner : ' TBD'
+        },
+        {
+            day: 'THU, MAY 4 2023',
+            group: 'Group - A',
+            team1: 'Tollygunge Club ',
+            team2: 'Calcutta Club ',
+            time : '8:20 PM',
+            winner : ' TBD'
+        },
     ]
 
   return (

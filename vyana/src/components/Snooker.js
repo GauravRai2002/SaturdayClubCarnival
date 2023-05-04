@@ -115,6 +115,14 @@ function Snooker() {
             time : '6:00 PM',
             winner : ' TBD'
         },
+        {
+            day: 'THU, MAY 4 2023',
+            group: 'FINAL',
+            team1: 'Dalhousie Institute ',
+            team2: 'Hindustan Club ',
+            time : '6:00 PM',
+            winner : ' TBD'
+        },
     ]
 
   return (
