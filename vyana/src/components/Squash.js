@@ -69,7 +69,7 @@ function Squash() {
             winner : ' WALKOVER'
         },
         {
-            day: 'TUE, MAY 2 2023',
+            day: 'THU, MAY 4 2023',
             group: 'Semi-Final',
             team1: 'Tollygunge Club ',
             team2: 'Hindustan Club ',
@@ -77,7 +77,7 @@ function Squash() {
             winner : ' TBD'
         },
         {
-            day: 'TUE, MAY 2 2023',
+            day: 'THU, MAY 4 2023',
             group: 'Semi-Final',
             team1: 'The Saturday Club ',
             team2: 'Bengal Rowing Club ',
