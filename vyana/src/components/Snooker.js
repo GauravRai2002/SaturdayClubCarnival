@@ -102,18 +102,18 @@ function Snooker() {
         {
             day: 'WED, MAY 3 2023',
             group: 'T1',
-            team1: 'A1 ',
-            team2: 'B2 ',
+            team1: 'Dalhousie Institute ',
+            team2: 'The Saturday Club ',
             time : '6:00 PM',
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'WED, MAY 3 2023',
             group: 'T2',
-            team1: 'B1 ',
-            team2: 'A2 ',
+            team1: 'Tollygunge Club ',
+            team2: 'Hindustan Club ',
             time : '6:00 PM',
-            winner : ' TBD'
+            winner : ' HC'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -121,7 +121,7 @@ function Snooker() {
             team1: 'Dalhousie Institute ',
             team2: 'Hindustan Club ',
             time : '6:00 PM',
-            winner : ' TBD'
+            winner : ' DI'
         },
     ]
 

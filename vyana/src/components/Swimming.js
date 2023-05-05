@@ -89,7 +89,7 @@ function Swimming() {
             team1: 'CC & FC ',
             team2: 'Hindustan Club ',
             time : '5:30 PM',
-            winner : ' TBD'
+            winner : ' HC'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -97,7 +97,7 @@ function Swimming() {
             team1: 'Bengal Rowing Club ',
             team2: 'Tollygunge Club ',
             time : '6:30 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -105,7 +105,7 @@ function Swimming() {
             team1: 'Calcutta Punjab Club ',
             team2: 'Calcutta Club ',
             time : '7:30 PM',
-            winner : ' TBD'
+            winner : ' CPC'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -113,7 +113,7 @@ function Swimming() {
             team1: 'Calcutta Swimming Club ',
             team2: 'Dalhousie Institute ',
             time : '8:30 PM',
-            winner : ' TBD'
+            winner : ' CSC'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -121,7 +121,7 @@ function Swimming() {
             team1: 'CC & FC ',
             team2: 'Bengal Rowing Club ',
             time : '6:30 PM',
-            winner : ' TBD'
+            winner : ' BRC'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -129,7 +129,7 @@ function Swimming() {
             team1: 'Hindustan Club ',
             team2: 'Tollygunge Club ',
             time : '7:30 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -137,7 +137,7 @@ function Swimming() {
             team1: 'Calcutta Punjab Club ',
             team2: 'Royal Calcutta Golf Club ',
             time : '8:30 PM',
-            winner : ' TBD'
+            winner : ' CPC'
         },
     ]
   return (

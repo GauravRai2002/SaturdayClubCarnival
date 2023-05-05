@@ -90,7 +90,7 @@ function Poker() {
             team1: 'CC & FC ',
             team2: 'Dalhousie Institute ',
             time : '5:00 PM',
-            winner : ' TBD'
+            winner : ' DI'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -98,7 +98,7 @@ function Poker() {
             team1: 'Calcutta Swimming Club ',
             team2: 'Royal Calcutta Golf Club ',
             time : '5:50 PM',
-            winner : ' TBD'
+            winner : ' CSC'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -106,7 +106,7 @@ function Poker() {
             team1: 'The Saturday Club ',
             team2: 'Hindustan Club ',
             time : '6:40 PM',
-            winner : ' TBD'
+            winner : ' SATC'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -114,7 +114,7 @@ function Poker() {
             team1: 'Bengal Rowing Club ',
             team2: 'The Saturday Club ',
             time : '7:30 PM',
-            winner : ' TBD'
+            winner : ' SATC'
         },
         {
             day: 'THU, MAY 4 2023',
@@ -122,7 +122,7 @@ function Poker() {
             team1: 'Tollygunge Club ',
             team2: 'Calcutta Club ',
             time : '8:20 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
     ]
 

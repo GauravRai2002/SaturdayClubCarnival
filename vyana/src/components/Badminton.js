@@ -119,7 +119,7 @@ function Badminton() {
             team2: 'Hindustan Club ',
             time : '6:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -128,7 +128,7 @@ function Badminton() {
             team2: 'Hindustan Club ',
             time : '7:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' SATC'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -137,7 +137,7 @@ function Badminton() {
             team2: 'Tollygunge Club ',
             time : '8:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' SATC'
         },
         {
             day: 'WED, MAY 3 2023',
@@ -146,7 +146,7 @@ function Badminton() {
             team2: 'CC & FC ',
             time : '9:00 PM',
             live : false,
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'THU, MAY 4 2023',

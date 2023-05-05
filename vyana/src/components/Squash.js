@@ -74,13 +74,21 @@ function Squash() {
             team1: 'Tollygunge Club ',
             team2: 'Hindustan Club ',
             time : '6:00 PM',
-            winner : ' TBD'
+            winner : ' TOLLY'
         },
         {
             day: 'THU, MAY 4 2023',
             group: 'Semi-Final',
             team1: 'The Saturday Club ',
             team2: 'Bengal Rowing Club ',
+            time : '6:00 PM',
+            winner : ' SATC'
+        },
+        {
+            day: 'FRI, MAY 5 2023',
+            group: 'Final',
+            team1: 'The Saturday Club ',
+            team2: 'Tollygunge Club ',
             time : '6:00 PM',
             winner : ' TBD'
         },
